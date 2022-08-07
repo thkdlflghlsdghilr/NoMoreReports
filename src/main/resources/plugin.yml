@@ -1,0 +1,7 @@
+name: NoMoreReports
+version: '${project.version}'
+main: me.sand.nomorereports.NoMoreReports
+api-version: 1.19
+authors: [ Sand, Barrulik ]
+description: Prevents people from reporting chat messages
+website: sandinwind.com
