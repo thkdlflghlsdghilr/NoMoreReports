@@ -1,4 +1,4 @@
-# NoMoreMessages
+# NoMoreReports
 ## A minecraft plugin that disables chat reporting on all types of messages
 ###### Tested and working verions: 1.19+
 ⚠️Warning⚠️ - selector specifications (eg. @e[type=pig] or @a[distance=..10]) won't work on the commands /w, /msg, and /tell. It will work as if it's just @e or @a
